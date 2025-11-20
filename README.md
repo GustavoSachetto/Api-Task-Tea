@@ -1,4 +1,4 @@
-![logo](https://github.com/user-attachments/assets/91d41661-33bb-4771-b4a0-dcb25bbd368a)
+<img width="147" height="102" alt="391352716-e2ed485b-c3e7-4384-8752-0d8a9ff02ce4" src="https://github.com/user-attachments/assets/b571e559-dab9-4d74-b280-c653614eb639" />
 
 # API Task TEA
 Este projeto consiste numa __API-RESTFULL__ criada com o __framework Laravel__ para gerenciamento do banco de dados do aplicativo Task TEA, que é um aplicativo gerado com intuito de ajudar crianças que possuem o Transtorno do Espectro Autista (TEA).
